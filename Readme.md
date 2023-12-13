@@ -2,4 +2,4 @@
 
 - Model Link -[https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj]
 
-- Tech-Stack - 
+- Tech-Stack - Node js , Express js , MongoDB, Mongoose
